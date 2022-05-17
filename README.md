@@ -11,6 +11,7 @@ Passo a passo realizado:
 	* Inspeção inicial dos dados
 	* Análise descritiva
 	* Criação de variável target de atraso
+	* Criação de variável de tempo de entrega
 	* Criação de variável de complexidade do pedido
 	* Transformação de variáveis: one hot encoding e transformação de tipos 
 	* Clusterização de cidades: escolha e execução do melhor algoritmo 
